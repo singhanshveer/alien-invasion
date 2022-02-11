@@ -1,2 +1,4 @@
+# cache
 __pycache__
+# vs code related files
 .vscode
