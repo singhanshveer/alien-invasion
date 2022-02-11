@@ -2,3 +2,5 @@
 __pycache__
 # vs code related files
 .vscode
+# i run my tests in this
+test.py
