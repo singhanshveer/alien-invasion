@@ -25,3 +25,8 @@ python alien_invasion.py
 ```
 
 ## Screenshots 
+Welcome Screen
+![Screenshot1](https://github.com/singhanshveer/alien-invasion/blob/main/images/screenshots/alieninvasion1.png?raw=true)
+
+You get 3 ships!
+![Screenshot2](https://github.com/singhanshveer/alien-invasion/blob/main/images/screenshots/alieninvasion2.png?raw=true)

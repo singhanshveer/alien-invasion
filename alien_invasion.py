@@ -9,6 +9,9 @@ from ship import Ship
 import game_functions as gf
 
 
+window_icon = pygame.image.load("./images/ship.bmp")
+pygame.display.set_icon(window_icon)
+
 def run_game():
     # Initialize pygame, settings, and screen object.
     pygame.init()
