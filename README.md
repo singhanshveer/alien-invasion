@@ -11,6 +11,7 @@ You can install [pygame](https://www.pygame.org/wiki/GettingStarted) using the f
 python -m pip install pygame
 ```
 ## Installation
+( Installations steps can differ on each OS depending on system build ) 
 Play the game!
 
 Run the following commands in a folder to play this game.
